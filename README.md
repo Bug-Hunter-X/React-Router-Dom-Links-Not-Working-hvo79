@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using React Router Dom: links not working as expected. The bug.js file contains the erroneous code.  The bugSolution.js file provides the corrected code and explanation.  The issue arises from improper use of Route components and missing imports.
